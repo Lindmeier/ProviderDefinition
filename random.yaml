@@ -1,0 +1,11 @@
+kind: Provider
+id: f78e8f5d-6998-47dd-9962-8acc1ecda118
+name: random
+category: tbd
+description:
+owner: xgadlnd
+capability: tbd
+state: planned
+type: Terraform
+config_params:
+env_params:
